@@ -41,4 +41,4 @@ Arduino IDE:
 [Управление сервомотором](sg90)
 
 
-[Управление светодиодом из любой точки мира через Telegram (telegram_simple) (WI-FI)
+[Управление светодиодом из любой точки мира через Telegram](telegram_simple) (WI-FI)
